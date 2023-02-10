@@ -1,0 +1,31 @@
+{
+  "name": "express-courses",
+  "version": "1.0.0",
+  "description": "node express courses",
+  "main": "app",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/esse-jacques-dansomon/node-express-course.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "js"
+  ],
+  "author": "essejacques",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/esse-jacques-dansomon/node-express-course/issues"
+  },
+  "homepage": "https://github.com/esse-jacques-dansomon/node-express-course#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
